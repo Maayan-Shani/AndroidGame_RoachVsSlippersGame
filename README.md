@@ -164,8 +164,7 @@ The `utilities` package provides shared helper and manager classes, including:
 A short video demonstrating the gameplay and application features
 is provided as part of the assignment submission.
 
-The Link:
-
-[https://drive.google.com/file/d/1Ru4171DXyrtYcRmXaXXl7JMNkSIIjaji/view?usp=sharing](https://www.youtube.com/watch?v=R_pRHFswl0A)
+▶ **Watch the demo video on YouTube:**  
+[RoachVsSlippers Game Demo](https://www.youtube.com/watch?v=R_pRHFswl0A)
 
 
