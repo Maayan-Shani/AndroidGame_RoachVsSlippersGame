@@ -9,6 +9,14 @@ The goal is to survive as long as possible and achieve the highest distance scor
 
 ---
 
+## 📹 Demo Video
+A short video demonstrating the gameplay and application features
+is provided as part of the assignment submission.
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=R_pRHFswl0A)
+
+---
+
 ## 🎮 Gameplay Features
 - Button-based or sensor based controls
 - Lane based movement
@@ -158,10 +166,3 @@ The `utilities` package provides shared helper and manager classes, including:
 |---------|-----|
 | ![](screenshots/topten.jpeg) | ![](screenshots/map.jpeg) |
 
----
-
-## 📹 Demo Video
-A short video demonstrating the gameplay and application features
-is provided as part of the assignment submission.
-
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=R_pRHFswl0A)
